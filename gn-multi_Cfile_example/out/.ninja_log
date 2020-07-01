@@ -1,0 +1,26 @@
+# ninja log v5
+15	86	6145864477333570	obj/libhello_shared.hello_shared.o	f73b54eabdf048d5
+1	96	6145864477453484	obj/hello.hello.o	1000cf14c9626d45
+9	103	6145864477553437	obj/libhello_static.hello_static.o	aec03d17371120ea
+0	32	0	obj/libhello_static.a	381c922c339a1d1c
+5	123	6146698116098189	libhello_shared.so	8fd1756ff28bc6
+1	81	6146717386201819	obj/libhello_static.hello_static.o	aec03d17371120ea
+82	126	0	obj/libhello_static.a	381c922c339a1d1c
+1	75	6146719560028007	obj/libhello_static.hello_static.o	aec03d17371120ea
+75	92	0	obj/libhello_static.a	381c922c339a1d1c
+0	82	6146721880813463	obj/hello.hello.o	1000cf14c9626d45
+82	204	0	hello	b2d7859f7ae5c264
+2	157	6152729704595130	obj/hello.hello.o	1000cf14c9626d45
+24	116	6152755906554625	obj/hello_static.hello_static.o	577931a0236ad854
+44	140	6152755906710858	obj/hello_shared.hello_shared.o	c1ea915e11eaee16
+2	96	6152763221388342	obj/hello.hello.o	1000cf14c9626d45
+1	92	6152763888021863	obj/hello.hello.o	1000cf14c9626d45
+92	213	0	hello	b2d7859f7ae5c264
+2	92	6152769244728394	obj/hello.hello.o	1000cf14c9626d45
+93	212	0	hello	b2d7859f7ae5c264
+1	97	6152771456155692	obj/hello.hello.o	1000cf14c9626d45
+2	84	6152775903663508	obj/hello.hello_shared.o	c1af5b6d4c4bd233
+2	96	6152776310170456	obj/hello.hello_static.o	e421fc980a55acd
+42	132	6152776310547986	obj/hello.hello_shared.o	c1af5b6d4c4bd233
+24	155	6152776310889060	obj/hello.hello.o	1000cf14c9626d45
+155	277	0	hello	42fee7fc1ae3ed59

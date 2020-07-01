@@ -1,0 +1,14 @@
+# Copyright 2014 The Chromium Authors. All rights reserved.
+# Use of this source code is governed by a BSD-style license that can be
+# found in the LICENSE file.
+executable("hello") {
+  sources = [ "hello.cc" ,"hello_shared.cc","hello_static.cc"]
+
+}
+
+config("config") {
+    
+    cflags_cc = []
+    include_dirs = [
+        "//",]
+}
